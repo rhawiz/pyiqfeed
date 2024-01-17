@@ -11,7 +11,7 @@ setup(
     author='Ashwin Kapur',
     author_email='ashwin.kapur@gmail.com',
     packages=setuptools.find_packages(),
-    install_requires=['numpy~=1.20.2'],
+    install_requires=['numpy'],
     python_requires='>=3.7',
     classifiers=[
         "Development Status :: 3 - Alpha"
